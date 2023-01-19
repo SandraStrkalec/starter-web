@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ### Copyright
 
 2023 Git.training
+
+#### How to contribute
+
+Please fork this repository
